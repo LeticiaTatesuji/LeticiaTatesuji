@@ -1,5 +1,7 @@
 # About me:
-Estudante de Ciência da Computação
+Oi, sou a Letícia.
+
+Estudante de Ciência da Computação na UniFil.
 
 Atualmente Caloura
 <!--
