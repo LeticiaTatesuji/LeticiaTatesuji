@@ -4,6 +4,9 @@ Oi, sou a Letícia.
 Estudante de Ciência da Computação na UniFil.
 
 Atualmente Caloura
+
+# Pilhas de Tecnologia:
+
 <!--
 **LeticiaTatesuji/LeticiaTatesuji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
