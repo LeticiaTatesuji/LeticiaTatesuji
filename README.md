@@ -1,5 +1,6 @@
-## Hi there 👋
-
+## About me:
+Estudante de Ciência da Computação
+Atualmente Caloura
 <!--
 **LeticiaTatesuji/LeticiaTatesuji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
