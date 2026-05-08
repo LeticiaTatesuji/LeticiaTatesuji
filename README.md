@@ -1,5 +1,7 @@
-# About me:
-Oi, sou a Letícia.
+<p align = "center">
+  <img src = "https://v1.pinimg.com/videos/mc/720p/91/79/46/9179463803bfb98396ae53e13b2306ac.mp4" alt = "Header - Letícia Sousa Tatesuji" />
+  
+</p>
 
 Estudante de Ciência da Computação na UniFil.
 
