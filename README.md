@@ -4,7 +4,8 @@
 <h2>Socials:</h2>
 <p align="center">
   <a href="mailto:leticiatatesuji2016@gmail.com">
-      <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white"
+      <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white"/>
+  </a>
   <a href="www.linkedin.com/in/letícia-tatesuji">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"/>
   </a>
